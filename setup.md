@@ -99,6 +99,12 @@ cd /D %userprofile%\Desktop\swc-python\data
 uvx --with jupyter --with matplotlib --with numpy jupyter notebook
 ```
 
+If you receive client errors, then try running the following command:
+
+```bash
+uvx --native-tls --with jupyter --with matplotlib --with numpy jupyter notebook
+```
+
 :::::::::::::::::::::::::
 
 3\. Launch the notebook by clicking on the "New" button on the right and selecting "Python 3"
