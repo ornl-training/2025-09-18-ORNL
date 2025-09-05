@@ -1,129 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/01-intro.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/01-intro.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/02-numpy.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/02-numpy.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/03-matplotlib.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/03-matplotlib.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/04-lists.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/04-lists.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/05-loop.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/05-loop.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/06-files.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/06-files.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/07-cond.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/07-cond.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/08-func.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/08-func.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/09-errors.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/09-errors.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/10-defensive.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/10-defensive.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/11-debugging.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/11-debugging.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/12-cmdline.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/12-cmdline.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/404.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/404.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/CODE_OF_CONDUCT.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/LICENSE.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/additional_material.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/additional_material.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/discuss.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/aio.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/extra_exercises.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/discuss.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/index.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/extra_exercises.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/01-intro.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/images.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/02-numpy.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/index.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/03-matplotlib.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/01-intro.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/04-lists.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/02-numpy.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/05-loop.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/03-matplotlib.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/06-files.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/04-lists.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/07-cond.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/05-loop.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/08-func.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/06-files.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/09-errors.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/07-cond.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/10-defensive.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/08-func.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/11-debugging.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/09-errors.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/12-cmdline.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/10-defensive.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/404.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/11-debugging.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/12-cmdline.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/LICENSE.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/additional_material.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/discuss.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/extra_exercises.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/additional_material.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/index.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/profiles.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/reference.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/extra_exercises.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/profiles.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/reference.html</loc>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/ornl-training/2025-09-18-ORNL/reference.html</loc>
   </url>
 </urlset>
