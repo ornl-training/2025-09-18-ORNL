@@ -8,10 +8,33 @@ This lesson is designed to be run on a personal computer.
 All of the software and data used in this lesson are freely available online,
 and instructions on how to obtain them are provided below.
 
-## Install Python
+## Install uv and Python
 
-In this lesson, we will be using Python 3 with some of its most popular scientific libraries.
-One can install a plain-vanilla Python and all required libraries by hand.
+You will need to install the uv tool for this workshop. Detailed training on uv is available [here](https://ornl-training.github.io/python-with-uv/). The below instructions are copied from that workshop.
+
+Install uv on macOS and Linux with:
+
+```bash
+$ curl -LsSf https://astral.sh/uv/install.sh | sh
+# If curl is not present, then you can try wget below
+$ wget -qO- https://astral.sh/uv/install.sh | sh
+```
+
+Install uv on Windows with:
+
+```bash
+$ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+You may need to restart your terminal to ensure that uv was installed. Check the installation by displaying the version number using the `--version` option as shown below. If the command displays the uv version number then the installation was successful.
+
+```bash
+$ uv --version
+```
+
+```output
+uv 0.8.4 (e176e1714 2025-07-30)
+```
 
 ## Obtain lesson materials
 
@@ -74,22 +97,11 @@ cd /D %userprofile%\Desktop\swc-python\data
 
 ::::::::::::::::: spoiler
 
-## Unix shell
-
 ```bash
-jupyter notebook
+uvx --with jupyter --with matplotlib --with numpy jupyter notebook
 ```
 
 :::::::::::::::::::::::::
-
-
-::::::::::::::::: spoiler
-
-## Command Prompt (Windows)
-
-```source
-python -m notebook
-```
 
 :::::::::::::::::::::::::
 
@@ -98,42 +110,5 @@ from the drop-down menu:
 ![](fig/jupyter-notebook-launch-notebook2.png){alt='Anaconda Navigator Notebook directory'}
 
 :::::::::::::::::::::::::
-
-  <!-- vertical spacer -->
-
-## Option B: IPython interpreter
-
-IPython is an alternative solution situated somewhere in between the plain-vanilla Python
-interpreter and Jupyter Notebook. It provides an interactive command-line based interpreter with
-various convenience features and commands.  You can install IPython on your system
-[system](https://ipython.org/install.html).
-
-To start using IPython, execute:
-
-```source
-ipython
-```
-
-  <!-- vertical spacer -->
-
-## Option C: plain-vanilla Python interpreter
-
-To launch a plain-vanilla Python interpreter, execute:
-
-```source
-python
-```
-
-If you are using [Git Bash on Windows][gitbash], you have to call Python *via* `winpty`:
-
-```source
-winpty python
-```
-
-
-[zipfile1]: data/python-novice-inflammation-data.zip
-[zipfile2]: ../episodes/files/code/python-novice-inflammation-code.zip
-[gitbash]: https://gitforwindows.org
-
 
 
