@@ -50,11 +50,9 @@ Desktop.
 ## Launch Python interface
 
 To start working with Python, we need to launch a program that will interpret and execute our
-Python commands. Below we list several options. If you don't have a preference, proceed with the
-top option in the list that is available on your machine. Otherwise, you may use any interface
-you like.
+Python commands. For this workshop, we will assume the use of Jupyter Notebook.
 
-## Option A: Jupyter Notebook
+## Jupyter Notebook
 
 A Jupyter Notebook provides a browser-based interface for working with Python.
 You can launch a notebook from the command line:
