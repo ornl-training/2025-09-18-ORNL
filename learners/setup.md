@@ -113,4 +113,5 @@ from the drop-down menu:
 
 :::::::::::::::::::::::::
 
-
+[zipfile1]: data/python-novice-inflammation-data.zip
+[zipfile2]: ../episodes/files/code/python-novice-inflammation-code.zip
