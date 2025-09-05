@@ -103,8 +103,6 @@ uvx --with jupyter --with matplotlib --with numpy jupyter notebook
 
 :::::::::::::::::::::::::
 
-:::::::::::::::::::::::::
-
 3\. Launch the notebook by clicking on the "New" button on the right and selecting "Python 3"
 from the drop-down menu:
 ![](fig/jupyter-notebook-launch-notebook2.png){alt='Anaconda Navigator Notebook directory'}
